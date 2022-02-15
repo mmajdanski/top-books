@@ -4,7 +4,7 @@ This project was made in order to create a Amazon Top 100 Book List. To simplify
 
 **Note**: The App is getting its data directly from Amazon. None of the data is being stored locally (in a JSON file or localhost) or via a Database
 
-Visit [https://amazon-top-20-books-lqwmrmib8-mmajdanski.vercel.app/](https://amazon-top-20-books-lqwmrmib8-mmajdanski.vercel.app/) for the Live App!
+Visit [https://amazon-top-books.vercel.app/](https://amazon-top-books.vercel.app/) for the Live App!
 
 ## Screenshot
 
