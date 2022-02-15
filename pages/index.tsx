@@ -121,6 +121,7 @@ export const getStaticProps: GetStaticProps = async () => {
     props: {
       books: book_array,
     },
+    revalidate: 43200 //Revalidate the data every 24 hours (keeps our Top 20 List accurate and inline with Amazons List)
   };
 };
 
