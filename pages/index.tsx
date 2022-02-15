@@ -39,7 +39,7 @@ const Home: NextPage<Props> = ({ books }: Props) => {
       <div className="grid grid-cols-4 gap-3 justify-items-center mx-40  shadow-xl shadow-slate-200 py-10 my-10">
       {books.map((book) => {
         return (
-          <BookCard {...book} />
+          <BookCard key={book.title} {...book} />
         );
       })}
       </div>
