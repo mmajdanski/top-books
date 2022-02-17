@@ -8,7 +8,7 @@ Visit [https://amazon-top-books.vercel.app/](https://amazon-top-books.vercel.app
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/35552662/154167995-7a7f11d3-6787-4b9d-85a3-e4a7fe8f6a4e.png)
+![image](https://user-images.githubusercontent.com/35552662/154431697-d6f7b623-f15a-421e-82e4-594fc4320f32.png)
 
 # Technologies Used
 - React
